@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hudson Shi
-- My computer science skills: 
+- My computer science skill: 
   * Common knowledge: Data structure, Algorithm, OOP, Regular expression
   * Programming language: Java & Spring framework | C# & Unity | Python | R | SQL
   * Data science: Data Mining | Machine Learing | Convex Optimization | Big Data
