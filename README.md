@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Hudson Shi
 - My computer science skill: 
-  * Common knowledge: Data structure, Algorithm, OOP, Regular expression
-  * Programming language: Java & Spring framework | C# & Unity | Python | R | SQL
+  * Common knowledge: Data structure, Algorithm, OOP
+  * Programming language: Java & Spring framework + Mybatis | C# & Unity | Python | R | SQL
   * Data science: Data Mining | Machine Learing | Convex Optimization | Big Data
 - My math skill: Simulations and Modeling | Nonlinear Optimization | Operations Research | Statistics and Probability
 - My traffic engineering skill: ArcGIS | AutoCAD | Traffic Flow Theory | Traffic Planning | Traffic Simulation and Modeling | Traffic Signal Timing
