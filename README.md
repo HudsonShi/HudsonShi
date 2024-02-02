@@ -1,11 +1,11 @@
 # Personal Information
 
-- **Name:** [Your Name](Link)
-- **Title:** Professor of Transportation and Logistics 🚦
-- **Institution:** [Your Institution or University](Link)
-- **Email:** [Your Email Address](Link)
-- **Personal Website:** [Your Personal Website](Link)
-- **LinkedIn:** [Your LinkedIn Profile](Link)
+- **Name:** Handa Shi
+- **Title:** PhD student in Transportation 🚦| Ex-IBMer 🐝| Open Source Evangilist 📖
+- **Institution:** University of Alabama
+- **Email:** [shihanda93@gmail.com](shihanda93@gmail.com)
+- **Personal Website:** [My Personal Website](Link)
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/handa-shi/)
 
 ---
 
@@ -13,23 +13,24 @@
 
 My research interests primarily focus on the following areas:
 
-- Transportation Planning and Management 🛣️
-- Public Transport System Optimization 🚌
-- Intelligent Transportation Systems 🤖
-- Sustainable Transportation 🌱
+- Agent-based Modeling in Transportation 🤖
+- Discrete Optimization in Transport 🚌
+- Complex Networks and Systems Engineering in Transportation 🕸️
+- Spatiotemporal Data Mining and Computational Social Science in Transportation 🗺️
+- GIS Spatial Analysis and Spatial Econometrics in Transportation 🌍
 
 ---
 
 # Education
 
-- **Ph.D., Transportation Engineering**  
-  [Your Ph.D. details, including institution and graduation date]
+- **Ph.D., Civil Engineering**  
+  [ University of Alabama, 2024-Aug ~ 2028-May ]
 
 - **M.Sc., Transportation Planning**  
-  [Your Master's degree details, including institution and graduation date]
+  [ Stevens Institute of Technology, 2017-Aug ~ 2019-May ]
 
-- **B.Sc., Urban Planning**  
-  [Your Bachelor's degree details, including institution and graduation date]
+- **B.Sc., Traffic Engineering**  
+  [ Chang' an Univeisity, 2012-Aug ~ 2016-Jun ]
 
 ---
 
@@ -37,9 +38,7 @@ My research interests primarily focus on the following areas:
 
 Some representative papers:
 
-1. [Paper Title 1](Paper Link 1) - Published in XX Journal 📝
-2. [Paper Title 2](Paper Link 2) - Presented at XX Conference 📚
-3. [Paper Title 3](Paper Link 3) - Published in XX Magazine 📖
+1. [ Comparative Analysis of Traffic Characteristics Between China and the United States Based on Taxis as Floating Vehicles ](Paper Link 1) - Bachelor's degree final Thesis  📝
 
 ---
 
@@ -47,11 +46,9 @@ Some representative papers:
 
 Some notable projects:
 
-- **Optimization of Intelligent Transportation Systems**  
-  Project description...
+- **Analysis of land use development intensity along the Shenzhen subway**  
 
-- **Urban Public Transport Planning**  
-  Project description...
+- **Intelligent Parking Lot Backend Management System**  
 
 ---
 
@@ -66,5 +63,20 @@ Some notable projects:
 
 If you are interested in my research or collaboration, feel free to contact me through:
 
-- **Email:** [Your Email Address](Link) ✉️
-- **Office Address:** [Your Office Address](Link) 🏢
+- **Email:** [shihanda93@gmail.com](shihanda93@gmail.com) ✉️
+- **Office Address:** Uiversity of Alabama Civil Engineering Department 3016 Cyber 🏢
+
+---
+
+# Joined Orgnization
+
+- CCF
+- ACM
+- IEEE
+- Linux Foundation (APAC)
+- Apache Foundation (Sea Tunnel | Dolphin Scheduler)
+- Citipedia (一览众山小可持续城市与交通)
+- GISphere
+- IGDA
+- Baidu Graghic Card Club. Tualatin Club. HiFi Headphone and Earphone Club
+- Chiphill
